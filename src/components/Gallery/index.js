@@ -1,5 +1,6 @@
 import React from "react";
 import PhotoList from "../PhotoList";
+// import Modal from "../Modal";
 import { capitalizeFirstLetter } from "../../utils/helpers";
 
 function Gallery(props) {
